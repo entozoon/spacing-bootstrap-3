@@ -1,0 +1,10 @@
+{
+  "name": "spacing-bootstrap-3",
+  "homepage": "https://github.com/entozoon/spacing-bootstrap-3",
+  "authors": [
+    "MichaelCook <entozoon@gmail.com>"
+  ],
+  "description": "Spacing SASS backwards port from Bootstrap 4 to 3",
+  "main": "_spacing.scss",
+  "license": "MIT"
+}
