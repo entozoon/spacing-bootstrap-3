@@ -16,7 +16,7 @@ Make use of Bootstrap 4's [spacing utilities](https://v4-alpha.getbootstrap.com/
 
 You can now use any [spacing utility](https://v4-alpha.getbootstrap.com/utilities/spacing/) classes like:
 
-	<div class="py-1 py-sm-2 mb-md-3"></div>
+	<div class="p-1 py-sm-2 mb-lg-3"></div>
 	
 ## Configure
 
