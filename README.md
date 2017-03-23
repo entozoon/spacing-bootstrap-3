@@ -1,7 +1,7 @@
 # Spacing - Bootstrap 3
 Spacing SASS backwards port from Bootstrap 4 to 3
 
-Make use of Bootstrap 4's [spacing utilities](https://v4-alpha.getbootstrap.com/utilities/spacing/)
+Make use of Bootstrap 4's [spacing utilities](https://v4-alpha.getbootstrap.com/utilities/spacing/).
 
 ## Instal (any of:)
 	yarn add spacing-bootstrap-3
@@ -15,6 +15,7 @@ Make use of Bootstrap 4's [spacing utilities](https://v4-alpha.getbootstrap.com/
 ## Use
 
 You can now use any [spacing utility](https://v4-alpha.getbootstrap.com/utilities/spacing/) classes like:
+
 	<div class="py-1 py-sm-2 mb-md-3"></div>
 	
 ## Configure
