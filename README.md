@@ -3,7 +3,7 @@ Spacing SASS backwards port from Bootstrap 4 to 3
 
 Make use of Bootstrap 4's [spacing utilities](https://v4-alpha.getbootstrap.com/utilities/spacing/).
 
-## Instal (any of:)
+## Install (any of:)
 	yarn add spacing-bootstrap-3
 	npm install --save spacing-bootstrap-3
 	bower install --save spacing-bootstrap-3
