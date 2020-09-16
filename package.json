@@ -1,6 +1,6 @@
 {
   "name": "spacing-bootstrap-3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spacing SASS backwards port from Bootstrap 4 to 3",
   "main": "_spacing.scss",
   "scripts": {
