@@ -14,6 +14,7 @@ $grid-gutter-width: 30px !default;
 $spacer:   $grid-gutter-width * .5 !default;
 $spacer-x: $spacer !default;
 $spacer-y: $spacer !default;
+$zindex-navbar-fixed: 1030 !default;
 $spacers: (
   0: (
     x: 0,
