@@ -4,13 +4,11 @@ Spacing SASS backwards port from Bootstrap 4 to 3
 Make use of Bootstrap 4's [spacing utilities](https://v4-alpha.getbootstrap.com/utilities/spacing/).
 
 ## Install (any of:)
-	yarn add spacing-bootstrap-3
-	npm install --save spacing-bootstrap-3
-	bower install --save spacing-bootstrap-3
+	npm i spacing-bootstrap-3
 
 ## Integrate (as appropriate:)
 	@import 'node_modules/spacing-bootstrap-3/spacing';
-	@import 'bower_components/spacing-bootstrap-3/spacing';
+	@import '~/spacing-bootstrap-3/spacing';
 	
 ## Use
 
